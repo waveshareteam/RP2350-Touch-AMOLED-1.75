@@ -48,7 +48,7 @@ This repository is licensed under the Apache License License. See the [LICENSE](
 ## 🙌 Acknowledgments
 
 - Waveshare for their excellent hardware platforms and software support
-- The Espressif Team for their continuous support.
+- The Raspberry Pi Team for their continuous support.
 - Open-source contributors who make these projects possible.
 
 ---
